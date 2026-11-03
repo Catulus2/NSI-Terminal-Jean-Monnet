@@ -4,6 +4,7 @@ Date : 03/11/26
 """
 
 
+
 def premierModule():
     print("Voici mon premier module")
 

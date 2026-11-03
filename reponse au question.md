@@ -12,3 +12,7 @@
 3. Lors de l'import, le module `outil.py` est executé entièrement.
 
 4. Ecrire des fonctions dans un module permet surtout de partager du code et de rendre plus lisible le programme principal. `main.py`
+
+
+#### Page 5
+
